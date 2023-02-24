@@ -1,0 +1,24 @@
+.seibuikebukurosen ul li{
+    display: inline-block;
+    padding:0 20px;
+}
+.seibuikebukurosen {
+    height: 130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.seibusinzyukusen{
+    text-align: center;
+    text-decoration: underline;
+    padding:0 100px
+    
+}
+.seibuhaizimasen {
+    list-style-type: none;
+}
+.seibutitibusen{
+    text-align: center;
+    justify-content: space-around;
+    list-style-type: none;
+}
